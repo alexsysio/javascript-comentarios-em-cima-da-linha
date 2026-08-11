@@ -1,4 +1,4 @@
-### HTML JavaScript | JavaScript Comentários em  em cima da linha
+### HTML JavaScript | JavaScript Comentários em cima da linha
 
 <a href="https://github.com/user-attachments/assets/76795521-6f9b-484d-b71a-c2809f4f70bf">
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/76795521-6f9b-484d-b71a-c2809f4f70bf"/>
@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### O que o JavaScript pode fazer? | JavaScript Comentários em  em cima da linha
+### O que o JavaScript pode fazer? | JavaScript Comentários em cima da linha
 
 <a href="https://github.com/user-attachments/assets/12f43c1b-3ec2-4b49-a8fe-8cd205752868">
   <img width="100%" alt="comentarios-em-javascript" src="https://github.com/user-attachments/assets/12f43c1b-3ec2-4b49-a8fe-8cd205752868"/>
