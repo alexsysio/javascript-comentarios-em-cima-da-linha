@@ -15,7 +15,7 @@
 
 &nbsp;
 
-### O que o JavaScript pode fazer? | JavaScript Comentários em cima da linha
+### Resultado
 
 <a href="https://github.com/user-attachments/assets/db8e9cfe-6faf-4bb9-8dc6-a0e3ae83417b">
   <img width="100%" alt="comentario" src="https://github.com/user-attachments/assets/db8e9cfe-6faf-4bb9-8dc6-a0e3ae83417b" />
